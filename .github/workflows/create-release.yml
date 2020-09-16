@@ -4,3 +4,8 @@ on:
   workflow_dispatch:
     inputs:
       ref:
+        description: Commit name to release (defaults to master)
+        required: false
+      args:
+        description: Additional command line arguments
+        required: false
