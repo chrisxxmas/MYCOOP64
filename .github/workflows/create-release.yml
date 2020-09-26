@@ -9,3 +9,12 @@ on:
       args:
         description: Additional command line arguments
         required: false
+
+jobs:
+  release:
+    name: Draft Release
+    runs-on: ubuntu-latest
+    env:
+      DOTNET_CLI_TELEMETRY_OPTOUT: 1
+    steps:
+    - name: Checkout the repository
