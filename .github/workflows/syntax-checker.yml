@@ -1,0 +1,9 @@
+
+name: Check Yaml Syntax
+
+on:
+  issues:
+    types: [ opened, edited ]
+
+jobs:
+  build:
