@@ -1,2 +1,14 @@
 
 name: Test build
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: Commit name (defaults to master)
+        required: false
+      target:
+        description: Command line
+        required: true
+        default: ResolveVersion --verbose
+
+jobs:
