@@ -12,3 +12,11 @@ on:
         default: ResolveVersion --verbose
 
 jobs:
+  release:
+    name: Test build
+    runs-on: ubuntu-latest
+    env:
+      DOTNET_CLI_TELEMETRY_OPTOUT: 1
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v2
