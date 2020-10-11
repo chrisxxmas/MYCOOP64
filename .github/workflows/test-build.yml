@@ -20,3 +20,9 @@ jobs:
     steps:
     - name: Checkout the repository
       uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+        ref: ${{ github.event.inputs.ref }}
+
+    - name: Install GitVersion.Tool
+      run: dotnet tool install --global GitVersion.Tool
