@@ -1,1 +1,1 @@
-# Cont
+# Contributing to Ya
