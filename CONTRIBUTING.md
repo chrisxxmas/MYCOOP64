@@ -1,4 +1,4 @@
 # Contributing to YamlDotNet
 
 **Welcome!**  
-Thanks for your interest in contribu
+Thanks for your interest in contributing to this pro
