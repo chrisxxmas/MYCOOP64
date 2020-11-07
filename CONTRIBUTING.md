@@ -2,4 +2,4 @@
 
 **Welcome!**  
 Thanks for your interest in contributing to this project. Any contribution will
-be gladly accepted, provided that 
+be gladly accepted, provided that they are gene
