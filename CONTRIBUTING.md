@@ -2,4 +2,4 @@
 
 **Welcome!**  
 Thanks for your interest in contributing to this project. Any contribution will
-be gladly acce
+be gladly accepted, pro
