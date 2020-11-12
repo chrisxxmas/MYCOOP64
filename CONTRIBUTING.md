@@ -2,4 +2,4 @@
 
 **Welcome!**  
 Thanks for your interest in contributing to this project. Any contribution will
-be gladly accepted, provided that they are generally use
+be gladly accepted, provided that they are generally useful and foll
