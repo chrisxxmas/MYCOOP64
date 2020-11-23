@@ -5,4 +5,6 @@ Thanks for your interest in contributing to this project. Any contribution will
 be gladly accepted, provided that they are generally useful and follow the
 conventions of the project.
 
-If you are considering a contribution, please read and follow these guidel
+If you are considering a contribution, please read and follow these guidelines.
+
+## Pu
