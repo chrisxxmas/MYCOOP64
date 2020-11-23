@@ -7,4 +7,6 @@ conventions of the project.
 
 If you are considering a contribution, please read and follow these guidelines.
 
-## Pull requ
+## Pull requests
+
+All 
