@@ -9,4 +9,4 @@ If you are considering a contribution, please read and follow these guidelines.
 
 ## Pull requests
 
-All 
+All contribution
