@@ -9,4 +9,6 @@ If you are considering a contribution, please read and follow these guidelines.
 
 ## Pull requests
 
-All contributions should be submitted as pull re
+All contributions should be submitted as pull requests.
+
+1.
