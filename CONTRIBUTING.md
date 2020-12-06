@@ -11,4 +11,4 @@ If you are considering a contribution, please read and follow these guidelines.
 
 All contributions should be submitted as pull requests.
 
-1. Please create **one pull request for each feature**. This results in smaller pull requests that ar
+1. Please create **one pull request for each feature**. This results in smaller pull requests that are easier to
