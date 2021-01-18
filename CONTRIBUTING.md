@@ -15,4 +15,4 @@ All contributions should be submitted as pull requests.
 
 1. **Avoid reformatting existing code** unless you are making other changes to it.
    * Cleaning-up of `using`s is acceptable, if you made other changes to that file.
-   * If you believe that some code is badly formatted and needs fix
+   * If you believe that some code is badly formatted and needs fixing, iso
