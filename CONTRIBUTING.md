@@ -19,4 +19,4 @@ All contributions should be submitted as pull requests.
 
 1. Always add one or more **unit tests** that prove that the feature / fix you are submitting is working correctly.
 
-1. P
+1. Please **desc
