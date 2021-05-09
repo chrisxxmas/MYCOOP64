@@ -20,4 +20,4 @@ All contributions should be submitted as pull requests.
 1. Always add one or more **unit tests** that prove that the feature / fix you are submitting is working correctly.
 
 1. Please **describe the motivation** behind the pull request. Explain what was the problem / requirement. Unless the implementation is self-explanatory, also describe the solution.
-   * Of course, there's no need t
+   * Of course, there's no need to be too verbose.
