@@ -24,4 +24,4 @@ All contributions should be submitted as pull requests.
 
 ## Project organization
 
-The main project, Yam
+The main project, YamlDotNet.cspr
