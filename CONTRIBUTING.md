@@ -24,4 +24,4 @@ All contributions should be submitted as pull requests.
 
 ## Project organization
 
-The main project, YamlDotNet.csproj, is organized in 
+The main project, YamlDotNet.csproj, is organized in three m
