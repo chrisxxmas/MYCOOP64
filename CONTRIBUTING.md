@@ -24,4 +24,4 @@ All contributions should be submitted as pull requests.
 
 ## Project organization
 
-The main project, YamlDotNet.csproj, is organized in three main namespaces: `Core`, `RepresentationModel` and `Serialization`. The `Core` n
+The main project, YamlDotNet.csproj, is organized in three main namespaces: `Core`, `RepresentationModel` and `Serialization`. The `Core` namespace co
