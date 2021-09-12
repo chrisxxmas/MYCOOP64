@@ -26,4 +26,6 @@ All contributions should be submitted as pull requests.
 
 The main project, YamlDotNet.csproj, is organized in three main namespaces: `Core`, `RepresentationModel` and `Serialization`. The `Core` namespace contains everything that is related to reading and writing YAML. The `RepresentationModel` has classes that represent a YAML stream, similar to XmlDocument for XML. The `Serialization` namespace contains classes to serialize and deserialize object graphs to / from YAML.
 
-Unit tests are all contained in the project named YamlDotNet.Test.csproj
+Unit tests are all contained in the project named YamlDotNet.Test.csproj.
+
+The Performan
