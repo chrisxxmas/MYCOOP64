@@ -29,3 +29,5 @@ The main project, YamlDotNet.csproj, is organized in three main namespaces: `Cor
 Unit tests are all contained in the project named YamlDotNet.Test.csproj.
 
 The PerformanceTests folder contains various projects that contain performance tests that compare various versions of YamlDotNet to detect the impact of new features.
+
+## Buildi
