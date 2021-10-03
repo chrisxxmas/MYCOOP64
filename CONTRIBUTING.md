@@ -34,4 +34,4 @@ The PerformanceTests folder contains various projects that contain performance t
 
 This repository uses submodules. **Before building, make sure that you update them** using the following command:
 ```
-git 
+git submodul
