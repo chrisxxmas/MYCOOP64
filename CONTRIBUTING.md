@@ -32,4 +32,5 @@ The PerformanceTests folder contains various projects that contain performance t
 
 ## Building / multiplatform
 
-This repository uses submodules. **Before building, make sure that you update them** using the following co
+This repository uses submodules. **Before building, make sure that you update them** using the following command:
+`
