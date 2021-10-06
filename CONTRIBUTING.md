@@ -37,4 +37,4 @@ This repository uses submodules. **Before building, make sure that you update th
 git submodule update --init
 ```
 
-In order to build locally, you need at least to install the [.NET Core 3.
+In order to build locally, you need at least to install the [.NET Core 3.1 SDK](http
