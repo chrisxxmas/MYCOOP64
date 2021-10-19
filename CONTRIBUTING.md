@@ -40,4 +40,4 @@ git submodule update --init
 In order to build locally, you need at least to install the [.NET Core 3.1 SDK](https://dotnet.microsoft.com/download). Alternatively, you may install [Visual Studio 2019 Community](https://visualstudio.microsoft.com/vs/), which will install it for you and allow you to edit the code as well.
 
 Building for Unity requires installing
-[
+[Visual Stu
