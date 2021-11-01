@@ -42,4 +42,4 @@ In order to build locally, you need at least to install the [.NET Core 3.1 SDK](
 Building for Unity requires installing
 [Visual Studio Tools for Unity](https://visualstudiogallery.msdn.microsoft.com/20b80b8c-659b-45ef-96c1-437828fe7cf2/file/92287/8/Visual%20Studio%202013%20Tools%20for%20Unity.msi).
 
-**TODO**: Other .NET SDKs are probably needed. Check the correct set of requirements
+**TODO**: Other .NET SDKs are probably needed. Check the correct set of requirements and upd
