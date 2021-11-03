@@ -44,4 +44,4 @@ Building for Unity requires installing
 
 **TODO**: Other .NET SDKs are probably needed. Check the correct set of requirements and update this page.
 
-This proje
+This project is compa
