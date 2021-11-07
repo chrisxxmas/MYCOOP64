@@ -46,4 +46,7 @@ Building for Unity requires installing
 
 This project is compatible with the standard `dotnet` tool, so building the project is as simple as running the following command:
 ```
-dotnet b
+dotnet build
+```
+
+Y
