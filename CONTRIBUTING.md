@@ -49,4 +49,4 @@ This project is compatible with the standard `dotnet` tool, so building the proj
 dotnet build
 ```
 
-You can als
+You can also run the
