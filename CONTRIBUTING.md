@@ -49,4 +49,4 @@ This project is compatible with the standard `dotnet` tool, so building the proj
 dotnet build
 ```
 
-You can also run the unit tests in a simil
+You can also run the unit tests in a similar fashio
