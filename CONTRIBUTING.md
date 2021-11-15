@@ -56,4 +56,4 @@ dotnet test
 
 ### Build tool
 
-There is a program inside `/tools/build` that orchestrates 
+There is a program inside `/tools/build` that orchestrates other automati
