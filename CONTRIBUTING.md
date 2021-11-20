@@ -56,4 +56,4 @@ dotnet test
 
 ### Build tool
 
-There is a program inside `/tools/build` that orchestrates other automation tasks. This tool can be executed by calling `build.cmd <target>`, where `<
+There is a program inside `/tools/build` that orchestrates other automation tasks. This tool can be executed by calling `build.cmd <target>`, where `<target>` i
