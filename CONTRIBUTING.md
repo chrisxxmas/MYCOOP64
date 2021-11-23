@@ -58,4 +58,6 @@ dotnet test
 
 There is a program inside `/tools/build` that orchestrates other automation tasks. This tool can be executed by calling `build.cmd <target>`, where `<target>` is one of the following:
 
-###
+#### `Pack`
+
+Builds
