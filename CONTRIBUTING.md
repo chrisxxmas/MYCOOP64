@@ -60,4 +60,4 @@ There is a program inside `/tools/build` that orchestrates other automation task
 
 #### `Pack`
 
-Builds the proje
+Builds the project and produce
