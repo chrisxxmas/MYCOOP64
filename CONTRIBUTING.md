@@ -60,4 +60,4 @@ There is a program inside `/tools/build` that orchestrates other automation task
 
 #### `Pack`
 
-Builds the project and produce
+Builds the project and produces a NuGet packag
