@@ -62,4 +62,6 @@ There is a program inside `/tools/build` that orchestrates other automation task
 
 Builds the project and produces a NuGet package.
 
-#### `Publish
+#### `Publish`
+
+Bui
