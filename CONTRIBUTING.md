@@ -64,4 +64,4 @@ Builds the project and produces a NuGet package.
 
 #### `Publish`
 
-Builds the project and publis
+Builds the project and publishes a NuGet
