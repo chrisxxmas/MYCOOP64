@@ -64,4 +64,4 @@ Builds the project and produces a NuGet package.
 
 #### `Publish`
 
-Builds the project and publishes a NuGet package to nuget.org. In order to do so, an en
+Builds the project and publishes a NuGet package to nuget.org. In order to do so, an environment v
