@@ -64,4 +64,4 @@ Builds the project and produces a NuGet package.
 
 #### `Publish`
 
-Builds the project and publishes a NuGet package to nuget.org. In order to do so, an environment variable named `NUGET_AP
+Builds the project and publishes a NuGet package to nuget.org. In order to do so, an environment variable named `NUGET_API_KEY` mus
