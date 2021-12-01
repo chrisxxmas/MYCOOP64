@@ -66,4 +66,6 @@ Builds the project and produces a NuGet package.
 
 Builds the project and publishes a NuGet package to nuget.org. In order to do so, an environment variable named `NUGET_API_KEY` must be set.
 
-####
+#### `Release`
+
+If t
