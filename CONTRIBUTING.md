@@ -68,4 +68,4 @@ Builds the project and publishes a NuGet package to nuget.org. In order to do so
 
 #### `Release`
 
-If there are
+If there are no rele
