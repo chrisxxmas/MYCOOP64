@@ -69,4 +69,5 @@ Builds the project and publishes a NuGet package to nuget.org. In order to do so
 #### `Release`
 
 If there are no release notes for the current version, generates those release notes from the git log and exits.  
-Otherwise, creates a release from the current commit by performing the follow
+Otherwise, creates a release from the current commit by performing the following:
+1. Upd
