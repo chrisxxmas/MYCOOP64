@@ -72,4 +72,4 @@ If there are no release notes for the current version, generates those release n
 Otherwise, creates a release from the current commit by performing the following:
 1. Update the `RELEASE_NOTES.md` file.
 2. Commit the `RELEASE_NOTES.md` and the release notes for the current version.
-3. Tags the commit wi
+3. Tags the commit with the curr
