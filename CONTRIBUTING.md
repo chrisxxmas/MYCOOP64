@@ -74,4 +74,4 @@ Otherwise, creates a release from the current commit by performing the following
 2. Commit the `RELEASE_NOTES.md` and the release notes for the current version.
 3. Tags the commit with the current version.
 
-Once thi
+Once this is done, t
