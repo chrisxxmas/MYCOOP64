@@ -76,4 +76,4 @@ Otherwise, creates a release from the current commit by performing the following
 
 Once this is done, the tag must be pushed manually to the repository.
 
-##
+#### `Docu
