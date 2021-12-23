@@ -78,4 +78,4 @@ Once this is done, the tag must be pushed manually to the repository.
 
 #### `Document`
 
-Generates the s
+Generates the samples do
