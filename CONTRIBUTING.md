@@ -80,4 +80,4 @@ Once this is done, the tag must be pushed manually to the repository.
 
 Generates the samples documentation.
 
-### Conti
+### Continuous int
