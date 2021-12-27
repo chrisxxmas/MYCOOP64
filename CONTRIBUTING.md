@@ -82,4 +82,4 @@ Generates the samples documentation.
 
 ### Continuous integration
 
-Every c
+Every commit and 
