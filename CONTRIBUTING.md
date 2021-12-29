@@ -82,4 +82,4 @@ Generates the samples documentation.
 
 ### Continuous integration
 
-Every commit and pull request is built on [AppVeyo
+Every commit and pull request is built on [AppVeyor](https://
