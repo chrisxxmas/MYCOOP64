@@ -82,4 +82,4 @@ Generates the samples documentation.
 
 ### Continuous integration
 
-Every commit and pull request is built on [AppVeyor](https://ci.appveyor.com/project/aaubry/yamldotnet). The build definition is kept intentionally simple. All the logic is delegated to 
+Every commit and pull request is built on [AppVeyor](https://ci.appveyor.com/project/aaubry/yamldotnet). The build definition is kept intentionally simple. All the logic is delegated to the build 
