@@ -84,4 +84,5 @@ Generates the samples documentation.
 
 Every commit and pull request is built on [AppVeyor](https://ci.appveyor.com/project/aaubry/yamldotnet). The build definition is kept intentionally simple. All the logic is delegated to the build tool. This makes it easy to use a different CI provider, or even to run the builds manually.
 
-### Targ
+### Target platforms
+
