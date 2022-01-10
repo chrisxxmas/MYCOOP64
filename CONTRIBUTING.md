@@ -86,4 +86,6 @@ Every commit and pull request is built on [AppVeyor](https://ci.appveyor.com/pro
 
 ### Target platforms
 
-The project targets the following platfor
+The project targets the following platforms:
+
+* .
