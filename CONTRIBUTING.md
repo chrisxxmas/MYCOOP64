@@ -89,4 +89,4 @@ Every commit and pull request is built on [AppVeyor](https://ci.appveyor.com/pro
 The project targets the following platforms:
 
 * .NET Framework 4.7
-* 
+* .NET Frame
