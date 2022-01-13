@@ -91,3 +91,4 @@ The project targets the following platforms:
 * .NET Framework 4.7
 * .NET Framework 4.5
 * .NET Framework 3.5
+* .NET
