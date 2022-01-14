@@ -92,4 +92,4 @@ The project targets the following platforms:
 * .NET Framework 4.5
 * .NET Framework 3.5
 * .NET Standard 2.1
-* Un
+* Unity Subs
