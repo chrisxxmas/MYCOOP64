@@ -93,4 +93,6 @@ The project targets the following platforms:
 * .NET Framework 3.5
 * .NET Standard 2.1
 * Unity Subset v3.5
-* .NET 
+* .NET 6.0
+
+In t
