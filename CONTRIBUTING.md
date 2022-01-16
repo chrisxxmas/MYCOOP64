@@ -95,4 +95,4 @@ The project targets the following platforms:
 * Unity Subset v3.5
 * .NET 6.0
 
-In the cspro
+In the csproj, the `Ta
