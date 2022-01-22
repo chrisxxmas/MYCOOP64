@@ -97,4 +97,4 @@ The project targets the following platforms:
 
 In the csproj, the `TargetFrameworks` element also targets the following platforms for technical reasons:
 
-* net40: this is 
+* net40: this is a hack us
