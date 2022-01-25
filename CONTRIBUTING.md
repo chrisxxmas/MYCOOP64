@@ -97,4 +97,5 @@ The project targets the following platforms:
 
 In the csproj, the `TargetFrameworks` element also targets the following platforms for technical reasons:
 
-* net40: this is a hack used to target Unity. That target is overriden and in reality it targets Unity Sub
+* net40: this is a hack used to target Unity. That target is overriden and in reality it targets Unity Subset v3.5.
+* .NE
