@@ -98,4 +98,4 @@ The project targets the following platforms:
 In the csproj, the `TargetFrameworks` element also targets the following platforms for technical reasons:
 
 * net40: this is a hack used to target Unity. That target is overriden and in reality it targets Unity Subset v3.5.
-* .NET Core 3.0: this is to benefit from nullable annotatio
+* .NET Core 3.0: this is to benefit from nullable annotations in the BCL.
