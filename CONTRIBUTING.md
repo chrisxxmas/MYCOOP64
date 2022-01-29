@@ -101,3 +101,5 @@ In the csproj, the `TargetFrameworks` element also targets the following platfor
 * .NET Core 3.0: this is to benefit from nullable annotations in the BCL.
 
 ### Build configurations
+
+There ar
