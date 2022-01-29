@@ -102,4 +102,4 @@ In the csproj, the `TargetFrameworks` element also targets the following platfor
 
 ### Build configurations
 
-There ar
+There are a few 
