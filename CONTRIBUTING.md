@@ -103,4 +103,4 @@ In the csproj, the `TargetFrameworks` element also targets the following platfor
 ### Build configurations
 
 There are a few differences between the various target platforms,
-main
+mainly in the refle
