@@ -104,4 +104,4 @@ In the csproj, the `TargetFrameworks` element also targets the following platfor
 
 There are a few differences between the various target platforms,
 mainly in the reflection API. In order to adapt the code to each platform,
-`#if ... #endif` sections are
+`#if ... #endif` sections are used
