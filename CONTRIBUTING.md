@@ -105,4 +105,4 @@ In the csproj, the `TargetFrameworks` element also targets the following platfor
 There are a few differences between the various target platforms,
 mainly in the reflection API. In order to adapt the code to each platform,
 `#if ... #endif` sections are used. When possible, such sections should be placed
-in the `Helpers/Portab
+in the `Helpers/Portability.cs` fil
