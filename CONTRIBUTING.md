@@ -107,4 +107,4 @@ mainly in the reflection API. In order to adapt the code to each platform,
 `#if ... #endif` sections are used. When possible, such sections should be placed
 in the `Helpers/Portability.cs` file. An effective technique is to define an extension
 method that is used through the code, and has different implementations depending
-on 
+on the build va
