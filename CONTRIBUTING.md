@@ -109,4 +109,4 @@ in the `Helpers/Portability.cs` file. An effective technique is to define an ext
 method that is used through the code, and has different implementations depending
 on the build variables.
 
-## 
+## AOT compati
