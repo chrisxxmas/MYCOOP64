@@ -111,4 +111,4 @@ on the build variables.
 
 ## AOT compatibility
 
-So
+Some platfor
