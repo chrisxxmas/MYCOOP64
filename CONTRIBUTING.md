@@ -111,4 +111,4 @@ on the build variables.
 
 ## AOT compatibility
 
-Some platforms - such as IOS - f
+Some platforms - such as IOS - forbid
