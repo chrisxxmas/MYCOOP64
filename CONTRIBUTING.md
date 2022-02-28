@@ -111,4 +111,4 @@ on the build variables.
 
 ## AOT compatibility
 
-Some platforms - such as IOS - forbid dynamic code generation. Thi
+Some platforms - such as IOS - forbid dynamic code generation. This prev
