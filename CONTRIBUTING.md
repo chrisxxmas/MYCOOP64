@@ -115,4 +115,4 @@ Some platforms - such as IOS - forbid dynamic code generation. This prevents Jus
 
 In order to ensure that YamlDotNet is compatible with AOT compilation, an automatic test has been created that runs on every commit. That test exercises the serializer and deserializer to help identify AOT-related problems.
 
-## Codi
+## Coding styl
