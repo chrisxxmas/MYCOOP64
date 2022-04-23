@@ -117,4 +117,4 @@ In order to ensure that YamlDotNet is compatible with AOT compilation, an automa
 
 ## Coding style
 
-Attem
+Attempt to 
