@@ -119,4 +119,4 @@ In order to ensure that YamlDotNet is compatible with AOT compilation, an automa
 
 Attempt to follow the [SOLID](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles. In particular, try to give each type a single responsibility, and favour composition to combine features.
 
-As long as you keep the code readable, I don't care too much about any specific coding convention. There
+As long as you keep the code readable, I don't care too much about any specific coding convention. There are onl
