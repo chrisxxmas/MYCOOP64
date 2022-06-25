@@ -122,4 +122,4 @@ Attempt to follow the [SOLID](https://en.wikipedia.org/wiki/SOLID_%28object-orie
 As long as you keep the code readable, I don't care too much about any specific coding convention. There are only a few rules that should be honoured:
 
 * Use **4 spaces** to indent.
-* Each class / interface / struct / delegate **goes
+* Each class / interface / struct / delegate **goes to its own
