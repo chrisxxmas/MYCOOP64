@@ -123,4 +123,5 @@ As long as you keep the code readable, I don't care too much about any specific 
 
 * Use **4 spaces** to indent.
 * Each class / interface / struct / delegate **goes to its own file**.
-  * The only acceptable exception is for small and closely related typ
+  * The only acceptable exception is for small and closely related types.
+* Use
