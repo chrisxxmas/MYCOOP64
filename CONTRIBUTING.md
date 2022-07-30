@@ -126,3 +126,5 @@ As long as you keep the code readable, I don't care too much about any specific 
   * The only acceptable exception is for small and closely related types.
 * Use sane indentation rules. Break long lines when needed, but don't be obsessive:
   * This is **OK**:
+
+    ```
