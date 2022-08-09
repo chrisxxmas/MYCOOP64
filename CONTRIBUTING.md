@@ -132,4 +132,5 @@ As long as you keep the code readable, I don't care too much about any specific 
         new ObjectDescriptor(
             value.Value,
             underlyingType,
-            value
+            value.Type,
+     
