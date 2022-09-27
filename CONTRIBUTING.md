@@ -145,4 +145,4 @@ As long as you keep the code readable, I don't care too much about any specific 
     Traverse(
         new ObjectDescriptor(value.Value, underlyingType, value.Type, value.ScalarStyle),
         visitor,
-  
+        cu
