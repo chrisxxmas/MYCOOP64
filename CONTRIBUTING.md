@@ -151,4 +151,4 @@ As long as you keep the code readable, I don't care too much about any specific 
   * This is **not very good**:
 
     ```C#
-    Traverse(
+    Traverse(new ObjectDe
