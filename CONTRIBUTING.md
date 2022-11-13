@@ -158,4 +158,4 @@ As long as you keep the code readable, I don't care too much about any specific 
     ```C#
     Traverse(new ObjectDescriptor(value.Value,
                                   underlyingType,
-                    
+                             
