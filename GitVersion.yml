@@ -5,3 +5,4 @@ commit-message-incrementing: MergeMessageOnly
 branches:
   master:
     commit-message-incrementing: MergeMessageOnly
+    increment: None
