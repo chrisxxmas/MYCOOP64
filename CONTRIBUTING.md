@@ -162,4 +162,4 @@ As long as you keep the code readable, I don't care too much about any specific 
                                   value.ScalarStyle),
              visitor,
              currentDepth);
-    
+    ```
