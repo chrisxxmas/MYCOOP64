@@ -35,3 +35,16 @@ The library has now been successfully used in multiple projects and is considere
 * Unity Subset v3.5
 
 The following runtimes are also supported, with a few features missing:
+
+* .NET Framework 3.5
+
+The library is compatible with mono's [Ahead-of-Time compilation](https://www.mono-project.com/docs/advanced/aot/) (AOT), and should work correctly on platforms that depend on it, such as Unity.
+
+## Quick start
+
+Here are some quick samples to get you started which can be viewed in [this fiddle](https://dotnetfiddle.net/CQ7ZKi).
+
+### Serialization from an object to a string
+
+```c#
+using YamlDotNet.Serialization;
