@@ -48,3 +48,15 @@ Here are some quick samples to get you started which can be viewed in [this fidd
 
 ```c#
 using YamlDotNet.Serialization;
+using YamlDotNet.Serialization.NamingConventions;
+...
+
+ var person = new Person
+{
+    Name = "Abe Lincoln",
+    Age = 25,
+    HeightInInches = 6f + 4f / 12f,
+    Addresses = new Dictionary<string, Address>{
+        { "home", new  Address() {
+                Street = "2720  Sundown Lane",
+                City = "Kentucketsville",
