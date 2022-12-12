@@ -60,3 +60,11 @@ using YamlDotNet.Serialization.NamingConventions;
         { "home", new  Address() {
                 Street = "2720  Sundown Lane",
                 City = "Kentucketsville",
+                State = "Calousiyorkida",
+                Zip = "99978",
+            }},
+        { "work", new  Address() {
+                Street = "1600 Pennsylvania Avenue NW",
+                City = "Washington",
+                State = "District of Columbia",
+                Zip = "20500",
