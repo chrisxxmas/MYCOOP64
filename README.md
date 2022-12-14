@@ -68,3 +68,12 @@ using YamlDotNet.Serialization.NamingConventions;
                 City = "Washington",
                 State = "District of Columbia",
                 Zip = "20500",
+            }},
+    }
+};
+
+var serializer = new SerializerBuilder()
+    .WithNamingConvention(CamelCaseNamingConvention.Instance)
+    .Build();
+var yaml = serializer.Serialize(person);
+System.Console.WriteLine(yaml);
