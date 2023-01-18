@@ -77,3 +77,11 @@ var serializer = new SerializerBuilder()
     .Build();
 var yaml = serializer.Serialize(person);
 System.Console.WriteLine(yaml);
+// Output: 
+// name: Abe Lincoln
+// age: 25
+// heightInInches: 6.3333334922790527
+// addresses:
+//   home:
+//     street: 2720  Sundown Lane
+//     city: Kentucketsville
