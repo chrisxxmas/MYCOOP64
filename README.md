@@ -85,3 +85,13 @@ System.Console.WriteLine(yaml);
 //   home:
 //     street: 2720  Sundown Lane
 //     city: Kentucketsville
+//     state: Calousiyorkida
+//     zip: 99978
+//   work:
+//     street: 1600 Pennsylvania Avenue NW
+//     city: Washington
+//     state: District of Columbia
+//     zip: 20500
+```
+
+### Deserialization from a string to an object
