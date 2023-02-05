@@ -95,3 +95,13 @@ System.Console.WriteLine(yaml);
 ```
 
 ### Deserialization from a string to an object
+
+```c#
+using YamlDotNet.Serialization;
+using YamlDotNet.Serialization.NamingConventions;
+...
+
+var yml = @"
+name: George Washington
+age: 89
+height_in_inches: 5.75
