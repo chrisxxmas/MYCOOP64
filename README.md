@@ -105,3 +105,16 @@ var yml = @"
 name: George Washington
 age: 89
 height_in_inches: 5.75
+addresses:
+  home:
+    street: 400 Mockingbird Lane
+    city: Louaryland
+    state: Hawidaho
+    zip: 99970
+";
+
+var deserializer = new DeserializerBuilder()
+    .WithNamingConvention(UnderscoredNamingConvention.Instance)  // see height_in_inches in sample yml 
+    .Build();
+
+//yml contains a string containing your YAML
