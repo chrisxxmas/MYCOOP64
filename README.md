@@ -118,3 +118,13 @@ var deserializer = new DeserializerBuilder()
     .Build();
 
 //yml contains a string containing your YAML
+var p = deserializer.Deserialize<Person>(yml);
+var h = p.Addresses["home"];
+System.Console.WriteLine($"{p.Name} is {p.Age} years old and lives at {h.Street} in {h.City}, {h.State}.");
+// Output:
+// George Washington is 89 years old and lives at 400 Mockingbird Lane in Louaryland, Hawidaho.
+```
+
+## More information
+
+More information can be found in the [project's wiki](https://github.com/aaubry/YamlDotNet/wiki).
