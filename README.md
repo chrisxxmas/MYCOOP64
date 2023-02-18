@@ -128,3 +128,11 @@ System.Console.WriteLine($"{p.Name} is {p.Age} years old and lives at {h.Street}
 ## More information
 
 More information can be found in the [project's wiki](https://github.com/aaubry/YamlDotNet/wiki).
+
+## Installing
+
+Just install the [YamlDotNet NuGet package](http://www.nuget.org/packages/YamlDotNet/):
+
+```
+PM> Install-Package YamlDotNet
+```
