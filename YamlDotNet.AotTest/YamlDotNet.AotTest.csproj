@@ -24,3 +24,8 @@
       <Project>{bf32de1b-6276-4341-b212-f8862adbba7a}</Project>
       <Name>YamlDotNet</Name>
     </ProjectReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="..\YamlDotNet.Test\Serialization\GenericTestDictionary.cs">
+      <Link>GenericTestDictionary.cs</Link>
