@@ -146,3 +146,5 @@ YamlDotNet is also available on the [Unity Asset Store](https://assetstore.unity
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Release notes
+
+Please see the Releases at https://github.com/aaubry/YamlDotNet/releases
