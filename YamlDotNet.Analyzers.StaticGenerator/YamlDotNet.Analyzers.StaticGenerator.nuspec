@@ -2,3 +2,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- dotnet pack -c release -o /packages -p:NuspecFile=YamlDotNet.Analyzers.StaticGenerator.nuspec -->
 <package>
+    <metadata minClientVersion="2.8">
+        <id>YamlDotNet.Analyzers.StaticGenerator</id>
+        <version>0.0.1</version>
+        <authors>YamlDotNet Contributors</authors>
+        <description>Roslyn Code Generator that will generate a static context for use with YamlDotNet to support ahead-of-time and library trimming.</description>
+        <summary>Static context generator for YamlDotNet.</summary>
+        <language>en-US</language>
+        <license type="file">LICENSE.txt</license>
+        <projectUrl>https://github.com/aaubry/YamlDotNet/wiki</projectUrl>
+        <iconUrl>http://aaubry.net/images/yamldotnet.png</iconUrl>
+        <icon>images/yamldotnet.png</icon>
