@@ -2,3 +2,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>net60;net45</TargetFrameworks>
+  </PropertyGroup>
+
+  <Import Project="../build/common.props" />
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug-AOT|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
