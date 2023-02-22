@@ -1,0 +1,4 @@
+
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- dotnet pack -c release -o /packages -p:NuspecFile=YamlDotNet.Analyzers.StaticGenerator.nuspec -->
+<package>
