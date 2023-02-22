@@ -29,3 +29,7 @@
   <ItemGroup>
     <Compile Include="..\YamlDotNet.Test\Serialization\GenericTestDictionary.cs">
       <Link>GenericTestDictionary.cs</Link>
+    </Compile>
+  </ItemGroup>
+
+</Project>
