@@ -27,3 +27,6 @@
                       OutputItemType="Analyzer"
                       ReferenceOutputAssembly="false" />
     <ProjectReference Include="..\YamlDotNet\YamlDotNet.csproj" />
+  </ItemGroup>
+
+</Project>
